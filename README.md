@@ -37,7 +37,7 @@ The system is built using:
 
 ## 🖼️ Device Image
 
-![Raspberry Pi 5](https://upload.wikimedia.org/wikipedia/commons/6/6f/Raspberry_Pi_5.jpg)
+![Raspberry Pi 5][images/pi5.jpg]
 
 ---
 
